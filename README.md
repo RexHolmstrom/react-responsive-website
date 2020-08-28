@@ -4,7 +4,11 @@ This is a fully responsive React website focused on the design and responsivenes
 Things used. 
 
 Javascript
+
 React
+
 CSS3
+
 Responsive design
+
 HTML5
